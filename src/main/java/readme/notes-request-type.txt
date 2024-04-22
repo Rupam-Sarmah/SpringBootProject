@@ -1,0 +1,18 @@
+/*Http Verbs
+	 * Get- Retrieve data from the server
+	 * Post- send data to server to create a resource
+	 * Put- send data to the server to update a resource
+	 * Patch- send data to the server to update a resource partially.
+	 * Delete- delete a resource from a server
+	 * Head - Postman
+	 * Options- Returns the HTTP methods supported by the server for the request url.
+	 * Trace- Returns the full HTTP methods supported by the server for debugging and diagnostic purposes.
+	 * connect- Converts the request connection to a transparent tcp/ip tunnel for secure communication.
+	 * purge- invalidates a cached resource
+	 * lock- Locks the resource for exclusive use by the client
+	 * unlock- Unlocks the resource previously locked by the client
+	 * mkcol- create a new collection resource.
+	 * copy- Copies the resource identified by the Request-uri to the destination URI.
+	 */
+	 
+ 
