@@ -1,0 +1,5 @@
+spring
+Model->structure of the db table Or We can say it Entity Class(@Entity used) @Data, @AllArgsConstructor, @Column,
+Repository-> mechanism layer how data will be stored,accessed,update. (SpringDataRepository<-CRUD<-Paging&Sorting<-JPA)interface.
+Service->  business logic
+Controller->API end point.
